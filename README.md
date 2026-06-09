@@ -141,15 +141,14 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AninditaGarai&theme=darkhub&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AninditaGarai&theme=darkhub&no-frame=true&margin-w=15" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AninditaGarai/AninditaGarai/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="[https://raw.githubusercontent.com/AninditaGarai/AninditaGarai/output/github-contribution-grid-snake-dark.svg" alt="snake animation](https://raw.githubusercontent.com/AninditaGarai/AninditaGarai/output/github-contribution-grid-snake-dark.svg)" />
 </p>
 
 ---
