@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anindita Garai</h1>
 
 <h3 align="center">
-🚀 AI/ML Enthusiast | AWS Certified | Full Stack Developer | Data Analytics Learner
+🚀 AI/ML Enthusiast | AWS Certified | Full Stack Developer | Data Analyst
 </h3>
 
 <p align="center">
